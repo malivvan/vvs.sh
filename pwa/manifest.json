@@ -2,7 +2,7 @@
   "id": "/",
   "name": "vvs.sh",
   "short_name": "vvs.sh",
-  "start_url": "https://vvs.sh",
+  "start_url": "index.html",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#000000",
